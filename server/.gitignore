@@ -1,0 +1,23 @@
+# Node.js related files
+node_modules/
+npm-debug.log
+yarn.lock
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Compiled files
+dist/
+build/
+*.exe
+*.dll
+
+# IDE and OS-specific files
+.vscode/
+.DS_Store
+*.swp
